@@ -1,4 +1,3 @@
-# Bike
 require_relative 'luggage'
 
 class Bike
